@@ -1,4 +1,3 @@
-import sqlite3
 import pandas as pd
 
 def clean_data(j_branch, j_customers, j_items, j_payment,
