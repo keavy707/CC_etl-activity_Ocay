@@ -1,0 +1,5 @@
+external db:
+postgresql://cc_db_act_user:lEL8rkE2QfX4WnDrAQvfvyRPZn9blMVw@dpg-d7u3e1tckfvc73ej116g-a.singapore-postgres.render.com/cc_db_act
+
+psql command:
+PGPASSWORD=lEL8rkE2QfX4WnDrAQvfvyRPZn9blMVw psql -h dpg-d7u3e1tckfvc73ej116g-a.singapore-postgres.render.com -U cc_db_act_user cc_db_act
